@@ -12,30 +12,30 @@ qb = quiz
 
 // MODIFY
 
-AR_tx.shift() // remove_first
-AR_tx.unshift() // add_first
-AR_tx.pop() // remove_last
-AR_tx.push() // add_last
-AR_tx.reverse() // reverse_all
-AR_tx.sort() // sort_all
-AR_tx.splice() // remove_replace
+//AR_tx.shift() // remove_first
+//AR_tx.unshift() // add_first
+//AR_tx.pop() // remove_last
+//AR_tx.push() // add_last
+//AR_tx.reverse() // reverse_all
+//AR_tx.sort() // sort_all
+//AR_tx.splice() // remove_replace
 
 // ACCESS
 
-AR_tx.concat() // glue_tables
-AR_tx.join() // between_items
-AR_tx.slice() // cut_index
-AR_tx.indexOf() // first_index
-AR_tx.lastIndexOf() // last_index
+//AR_tx.concat() // glue_tables
+//AR_tx.join() // between_items
+//AR_tx.slice() // cut_index
+//AR_tx.indexOf() // first_index
+//AR_tx.lastIndexOf() // last_index
 
 // ITERATION
 
-AR_tx.forEach() // function_run_all
-AR_tx.every() // condition_check_all
-AR_tx.some() // condition_check_any
-AR_tx.filter() // function_run_table
-AR_tx.map() // function_modify_table
-AR_tx.reduce() // function_run_single
+//AR_tx.forEach() // function_run_all
+//AR_tx.every() // condition_check_all
+//AR_tx.some() // condition_check_any
+//AR_tx.filter() // function_run_table
+//AR_tx.map() // function_modify_table
+//AR_tx.reduce() // function_run_single
 
 // CHECK
 
